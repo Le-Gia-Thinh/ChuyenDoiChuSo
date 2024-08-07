@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\bin\Debug\net8.0\ChuyenDoiChuSo.exe
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\bin\Debug\net8.0\ChuyenDoiChuSo.deps.json
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\bin\Debug\net8.0\ChuyenDoiChuSo.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\bin\Debug\net8.0\ChuyenDoiChuSo.dll
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\bin\Debug\net8.0\ChuyenDoiChuSo.pdb
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.dll
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\refint\ChuyenDoiChuSo.dll
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.pdb
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ChuyenDoiChuSo.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\ChuyenDoiChuSo\obj\Debug\net8.0\ref\ChuyenDoiChuSo.dll
